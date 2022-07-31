@@ -1,4 +1,4 @@
-boton::before{
+.boton::before{
     content: 'Pasa por encima';
 }
 
