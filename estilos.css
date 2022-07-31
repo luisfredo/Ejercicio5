@@ -1,4 +1,4 @@
-button::after{
+button::before{
     content: 'Pasa por encima';
 }
 
@@ -6,6 +6,6 @@ button::after{
     background-color: green;
     color: white;
 }
-.boton:hover::after{
+.boton:hover::before{
     content: '¡Hecho!';
 }
